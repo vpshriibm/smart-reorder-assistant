@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pandas
+plotly
+fpdf
+pulp
+requests
+cmdstanpy
+prophet
+

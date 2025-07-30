@@ -1,0 +1,6 @@
+sku,min_qty,stockout_risk
+SKU001,10,0.9
+SKU002,5,0.5
+SKU003,8,0.7
+SKU004,3,0.2
+
